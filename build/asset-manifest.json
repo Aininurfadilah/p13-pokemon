@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aininurfadilah/p13-pokemon/static/css/main.874f863c.css",
+    "main.js": "/Aininurfadilah/p13-pokemon/static/js/main.8a15f498.js",
+    "index.html": "/Aininurfadilah/p13-pokemon/index.html",
+    "main.874f863c.css.map": "/Aininurfadilah/p13-pokemon/static/css/main.874f863c.css.map",
+    "main.8a15f498.js.map": "/Aininurfadilah/p13-pokemon/static/js/main.8a15f498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874f863c.css",
+    "static/js/main.8a15f498.js"
+  ]
+}
